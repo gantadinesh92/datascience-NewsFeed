@@ -1,0 +1,15 @@
+[{
+"host": "localhost",
+"database": "postgres",
+"user": "postgres",
+"password":"Msjobs@123",
+"truncate":"No",
+"rss_type":"No",
+"query":"texas coronavirus",
+"news_limit":20,
+"word1":["covid","corona"],
+"word2":["texas","corona"],
+"Client":"Texas News",
+"schema": "public",
+"table":"analytics_newsfeed"
+}]
